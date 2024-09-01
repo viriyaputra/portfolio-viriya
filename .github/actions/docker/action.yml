@@ -1,0 +1,5 @@
+name: "Build Vercel Dist via Docker"
+description: "Builds the project using Docker"
+runs:
+  using: "docker"
+  image: "Dockerfile"

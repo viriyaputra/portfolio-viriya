@@ -74,7 +74,7 @@ export const projects = [
     title: "Customer Shopping Trend Dashboard",
     des: "Dashboard created using Tableau for visualization of customer shopping trend",
     img: "/p1.svg",
-    iconLists: ["/tabelau.svg"],
+    iconLists: ["/tableau.svg"],
     link: "/ui.earth.com",
   },
   {

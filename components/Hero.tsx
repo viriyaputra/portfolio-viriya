@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hello! I&apos;m Viriyaputra, an aspiring Data Analyst based in
+            Hello! I am Viriyaputra, an aspiring Data Analyst based in
             Indonesia.
           </p>
 

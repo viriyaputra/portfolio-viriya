@@ -18,8 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title:
-      "I comfortably adapt to time zone variations, ensuring smooth communication and workflow",
+    title: "I am adapted to working and collaborating with others remotely",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -39,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for data.",
+    title: "Tech enthusiast fueled by a curiosity for learning",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -50,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently aiming for Tableau Data Analyst Certificate",
+    title: "Constantly expanding my knowledge by staying updated on the tech",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
